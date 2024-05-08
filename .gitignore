@@ -1,0 +1,24 @@
+# dependencies
+**/node_modules
+
+# environment variables
+**/.env
+
+# logs
+*.log
+
+# Docker
+**/Dockerfile
+**/docker-compose.yml
+.dockerignore
+
+# dist directory
+**/dist
+
+# IDE settings
+.idea
+.vscode
+
+# system files
+.DS_Store
+Thumbs.db
